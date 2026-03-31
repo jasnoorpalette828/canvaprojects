@@ -9,10 +9,10 @@ It includes a variety of designs from **quote posts to promotional campaigns**, 
 ## Projects Included
 
 ### 🎨 Quote Posts
-https://canva.link/lg3hmptjgp23z5x 
+https://canva.link/rvp1ttowcfo8pzo
 
-### 🏥 Healthcare Marketing
- https://canva.link/oe88g7kb7ixgy46
+### 🏥 Healthcare Marketing 
+https://canva.link/oe88g7kb7ixgy46
 
 ### 🛍️ Promotional Posts
 - Marketing visuals for imaginary products
