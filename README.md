@@ -1,29 +1,53 @@
-# Canva Projects 🎨
+# Jasnoor Palette 🎨
 
 Hi! I'm Jasnoor 👋  
-This repository showcases my **Canva designs** including social media posts, presentations, and posters.
+This repository showcases my **Canva design projects** for practice and portfolio purposes.  
+It includes a variety of designs from **quote posts to promotional campaigns**, all created to demonstrate creativity, visual storytelling, and marketing design skills.
 
-## Projects
+---
 
-### Social Media Templates
-- Instagram and Facebook post templates
-- Creative visual campaigns
+## Projects Included
 
-### Presentations
-- Designed visually engaging slides
-- Focused on clarity and branding
+### 🎨 Quote Posts
+- Visually appealing inspirational quotes
+- Focused on typography and layout
 
-### Posters
-- Promotional and event posters
-- Colorful, eye-catching designs
+### 🏥 Healthcare Marketing
+- Designs for imaginary healthcare campaigns
+- Promotional posts for health awareness
+
+### 🛍️ Promotional Posts
+- Marketing visuals for imaginary products
+- Creative branding and call-to-action designs
+
+### 📊 Carousel Posts
+- Multi-slide posts for presentations or social media
+- Designed for clear messaging and engagement
+
+### ☕ Poster Designs
+- Example: Cafe opening poster
+- Colorful, eye-catching, and professional
+
+### 📢 Informational Posts
+- Educational/awareness posts
+- Simple, clean, and engaging design
+
+### 📑 Strategy Pages
+- Marketing or campaign strategy visuals
+- Infographics & visual layouts
+
+### 📄 Resume
+- Professionally designed resume template
+- Canva-created, ready to showcase
 
 ---
 
 ## Tools Used
-- Canva  
-- Canva Pro features (templates, animations, icons)  
+- Canva (Free & Pro features)
+- Canva Templates & Animations
 
 ---
 
 ## Note
-All designs are created for **practice and portfolio purposes**.
+All designs are **created for practice and portfolio purposes**.  
+This repo is a showcase of my creativity, design skills, and interest in **marketing & visual storytelling**.
