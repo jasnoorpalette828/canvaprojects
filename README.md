@@ -9,10 +9,10 @@ It includes a variety of designs from **quote posts to promotional campaigns**, 
 ## Projects Included
 
 ### 🎨 Quote Posts
+https://canva.link/lg3hmptjgp23z5x
 
 ### 🏥 Healthcare Marketing
-- Designs for imaginary healthcare campaigns
-- Promotional posts for health awareness
+ https://canva.link/oe88g7kb7ixgy46
 
 ### 🛍️ Promotional Posts
 - Marketing visuals for imaginary products
@@ -35,8 +35,7 @@ It includes a variety of designs from **quote posts to promotional campaigns**, 
 - Infographics & visual layouts
 
 ### 📄 Resume
-- Professionally designed resume template
-- Canva-created, ready to showcase
+https://canva.link/w9z4ymy1fdclfrn
 
 ---
 
