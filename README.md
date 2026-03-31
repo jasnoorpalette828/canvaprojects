@@ -9,8 +9,6 @@ It includes a variety of designs from **quote posts to promotional campaigns**, 
 ## Projects Included
 
 ### 🎨 Quote Posts
-- Visually appealing inspirational quotes
-- Focused on typography and layout
 
 ### 🏥 Healthcare Marketing
 - Designs for imaginary healthcare campaigns
